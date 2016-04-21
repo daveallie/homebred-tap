@@ -4,9 +4,9 @@
 
 class GitTools < Formula
   homepage "https://github.com/daveallie/git-tools"
-  url "https://github.com/daveallie/git-tools/archive/1.0.1.tar.gz"
-  version "1.0.1"
-  sha256 "dd5ed532214c40006637484b811eee64a389c37345257265be13b079ae9a097a"
+  url "https://github.com/daveallie/git-tools/archive/1.0.2.tar.gz"
+  version "1.0.2"
+  sha256 "95c087042a5b84529f8f8b380abdc69d2b74d9a4e3ebffd24295ac14326583e3"
 
   def install
     bin.install 'git-tools'
